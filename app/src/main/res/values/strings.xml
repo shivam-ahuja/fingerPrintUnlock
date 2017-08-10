@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FingerPrintUnlock</string>
+    <string name="belowfingerprint">one touch to unlock</string>
+    <string name="baselinetext">one touch is the fastest way to unlock (touch the fingerprint scanner on your device to unlock)</string>
+</resources>
